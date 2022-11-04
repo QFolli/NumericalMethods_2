@@ -1,0 +1,16 @@
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\Lab_2.exe
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\Lab_2.deps.json
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\Lab_2.runtimeconfig.json
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\Lab_2.runtimeconfig.dev.json
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\Lab_2.dll
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\ref\Lab_2.dll
+D:\Programs\Lab_2\Lab_2\bin\Debug\net5.0\Lab_2.pdb
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.csproj.AssemblyReference.cache
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.AssemblyInfoInputs.cache
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.AssemblyInfo.cs
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.csproj.CoreCompileInputs.cache
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.dll
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\ref\Lab_2.dll
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.pdb
+D:\Programs\Lab_2\Lab_2\obj\Debug\net5.0\Lab_2.genruntimeconfig.cache
